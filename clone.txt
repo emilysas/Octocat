@@ -1,1 +1,3 @@
 Explain what git clone does, in your own words
+
+Git clone allows you to 'clone', that is make an identical copy of, a remote repository. You can then work on that clone locally and, if you are either the owner of the repository or a verified contributor, to push your changes up to the origin master
