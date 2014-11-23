@@ -1,1 +1,3 @@
 Explain what the 'upstream' remote is usually used for, in your own words
+
+Where you have cloned another person's repository, the original is called the upstream repository. If you are not a verified contributor, then you are not able to push changes to this repository, but you can clone it and pull down changes in order to work on your own version. This is called forking.
