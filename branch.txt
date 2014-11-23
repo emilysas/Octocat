@@ -1,1 +1,3 @@
 Explain what a branch is, in your own words
+
+A branch allows you to concentrate on a certain feature of your code without making any changes to master. Once you're happy with your feature you can merge or rebase it back into master. It can be useful to use branches both in order to have a clear picture of what is going on in your repository, and because you can delete a branch should you decide that the feature is no longer wanted.
